@@ -3,55 +3,55 @@
         "nombre": "Pro Plan",
         "descri": "Alimento Puppy",
         "precio": 800,
-        "img": "./images/alimento1.png"
+        "img": ".../images/alimento1.png"
     },
     {
         "id": 2,
         "nombre": " MV ",
         "descri": "Dieta prescripta gastro intestinal",
         "precio": 3800,
-        "img": "./images/alimento5.png"
+        "img": ".../images/alimento5.png"
     },
     {
         "id": 3,
         "nombre": "Royal Cannin",
         "descri": "Alimento Maxi Adulto",
         "precio": 2800,
-        "img": "./images/alimento2.png"
+        "img": ".../images/alimento2.png"
     },
     {
         "id": 4,
         "nombre": "AnimalRed",
         "descri": "Hueso clasico",
         "precio": 600,
-        "img": "./images/golo9.png"
+        "img": ".../images/golo9.png"
     },
     {
         "id": 5,
         "nombre": "Dental-Plus",
         "descri": "Para aliento mas fresco",
         "precio": 355,
-        "img": "./images/golo11.png"
+        "img": ".../images/golo11.png"
     },
     {
         "id": 6,
         "nombre": "Cama ",
         "descri": "Cama circular de corderoy",
         "precio": 4300,
-        "img": "./images/acc2.png"
+        "img": ".../images/acc2.png"
     },
     {
         "id": 7,
         "nombre": "Pretal",
         "descri": "Pretal Mesh Columbia",
         "precio": 3200,
-        "img": "./images/acc7.png"
+        "img": ".../images/acc7.png"
     },
     {
         "id": 8,
         "nombre": "Castillo ",
         "descri": "Castillo de tres piezas, con accesorios",
         "precio": 7540,
-        "img": "./images/acc11.png"
+        "img": ".../images/acc11.png"
     }
 ]
