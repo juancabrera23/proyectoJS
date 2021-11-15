@@ -3,7 +3,7 @@ var productos = [{
     "nombre": "Pro Plan",
     "descri": "Alimento Puppy",
     "precio": 800,
-    "img": "images/alimento1.png",
+    "img": "../images/alimento1.png",
   },
   {
     "id": 2,
